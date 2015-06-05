@@ -1,6 +1,6 @@
 //
-//  KYElegantPhotoGallery_Swift_DemoTests.swift
-//  KYElegantPhotoGallery-Swift-DemoTests
+//  KYTilePhotoLayout_Swift_DemoTests.swift
+//  KYTilePhotoLayout-Swift-DemoTests
 //
 //  Created by Kitten Yang on 6/6/15.
 //  Copyright (c) 2015 Kitten Yang. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class KYElegantPhotoGallery_Swift_DemoTests: XCTestCase {
+class KYTilePhotoLayout_Swift_DemoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
